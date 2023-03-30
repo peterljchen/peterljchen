@@ -1,14 +1,11 @@
 ### Hi there 👋 My name is Peter Chen
 ------------------------------------------------
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building out my DrivenEdge substack here: https://drivenedge.substack.com/
 - 🌱 I’m currently expanding my HyperPlanar business here: http://https://www.hyperplanar.com/
 - 👯 I’m looking to collaborate on AI driven business ideas
-- 🤝  I'm open to opportunities in Data Science projects
-- ⚡ Fun fact: ...
+- 🤝 I'm open to opportunities in Data Science projects
+- ⚡ Fun fact: 
 
 ### Background
 Data Scientist(AI/ML).  Adjunct Professor. Asian American Writer. Data Driven Explorater of Financial Markets. 
