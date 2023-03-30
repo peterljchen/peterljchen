@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on building out my DrivenEdge substack here: https://drivenedge.substack.com/
 - 🌱 I do AI/ML/DS consulting work through my HyperPlanar website here: http://https://www.hyperplanar.com/
 - 👯 I’m looking to collaborate on AI driven business ideas.
-- 🤝 I'm open to opportunities in Data Science projects.
+- 🤝 I'm open to opportunities in Data Science/AI/ML projects.
 - ⚡ Fun fact: 
 
 ### Background
