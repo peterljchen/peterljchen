@@ -5,7 +5,7 @@
 - 🌱 I do AI/ML/DS consulting work through my HyperPlanar website here: http://https://www.hyperplanar.com/
 - 👯 I’m looking to collaborate on AI driven business ideas.
 - 🤝 I'm open to opportunities in Data Science/AI/ML projects.
-- ⚡ Fun fact: 
+- ⚡ Fun facts: One of my fav movies is The Matrix. I've won a couple of local Toastmasters Club competitions.
 
 ### Background
 Data Scientist(AI/ML).  Adjunct Professor. Asian American Writer. Data Driven Explorater of Financial Markets. 
